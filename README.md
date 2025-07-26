@@ -1,4 +1,5 @@
 # Job Application Automator
+A simple Python tool to automate job applications: saves job postings as PDFs, organizes them into folders, and logs details in a CSV. Optionally moves your latest resume and cover letter from Downloads for each application.
 
 ## Features
 Automatically logs job applications by:
@@ -22,8 +23,7 @@ Automatically logs job applications by:
 
    ### Windows
 
-   * Download and install GTK3 runtime environment before running the script.:
-    https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
+   Download and install GTK3 runtime environment before running the script: https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
 
    ### Linux (Ubuntu/Debian)
 
